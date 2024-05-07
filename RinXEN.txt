@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync"https://github.com/RinXHub/RinX/raw/main/Protected_2066297538337699.lua (1).txt")()
+loadstring(game:HttpGetAsync"https://github.com/RinXHub/RinX/raw/main/Protected_7938729297206375.lua.txt")()
