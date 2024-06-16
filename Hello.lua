@@ -4,9 +4,9 @@ _G.Settings = {
     ["text"] = "You're not whitelisted";
 }
 local abc = game:HttpGet(_G.Settings.site .. _G.Settings.key)
-if abc == "true" then
+if abc == "success" then
 print("Whitelisted")
-elseif abc == "false" then
+elseif abc == "fail" then
 print(_G.Settings.text)
 else
 print("Unknown response")
