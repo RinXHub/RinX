@@ -1,6 +1,6 @@
 _G.Settings = {
     ["key"] = _G.Key,
-    ["site"] = "https://whitelist-two-khaki.vercel.app/whitelist.php?key=",
+    ["site"] = "https://creepiest-secrets.000webhostapp.com/whitelist.php?key=",
     ["text"] = "You're not whitelisted";
 }
 local abc = game:HttpGet(_G.Settings.site .. _G.Settings.key)
